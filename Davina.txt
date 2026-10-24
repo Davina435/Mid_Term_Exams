@@ -1,1 +1,27 @@
 Davina_Owusu-Ansah.html
+<!DOCTYPE html>
+<html>
+<head>
+ <title>My Favourite Hobby</title>
+</head>
+<body>
+<h1>My Favourite Hobbies:Singing,reading and dancing</h1>
+<p>My hobbies are singing,reading and dancing.I like singing 
+because when I sing,I feel excited and I can express myself.
+I like dancing because it helps me to learn new words and 
+understand my vocabulary better.I like dancing because it I 
+feel joyful and it promotes emotional balance.I do them at my 
+leisure time.These hobbies bring out creativity,discipline and
+a good direction in life</p>
+<h2>Things related to my hobbies</h2>
+<ul>
+<li>Microphone and music player for singing</li>
+<li>Textbooks and library for reading</li>
+<li>Dancing costume and music for dancing</li>
+</ul>
+<img src=https://vt.tiktok.com/ZSg9ksH7u/</img>
+<video src=https://vt.tiktok.com/ZSg9kTnEd/</video>
+</body>
+</html>
+
+
